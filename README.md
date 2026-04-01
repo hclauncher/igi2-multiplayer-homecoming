@@ -33,6 +33,7 @@ https://igi2multiplayer.pages.dev/
 - Ensure stable internet connection
 
 ## 📢 Community
+
 Join our Discord server to find players, get help, and play together:
 
-https://discord.gg/tdhgXKa5Mt
+👉 https://discord.gg/tdhgXKa5Mt
