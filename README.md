@@ -1,5 +1,9 @@
 # IGI 2 Multiplayer Homecoming
 
+## 📸 Screenshot
+
+![HcLauncheR](HcLauncheR.png)
+
 IGI 2 Multiplayer Homecoming is a community project that allows players to play Project IGI 2: Covert Strike in multiplayer mode using HcLauncheR.
 
 ## 🎮 Features
