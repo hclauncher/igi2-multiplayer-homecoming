@@ -19,7 +19,10 @@ Follow this step-by-step guide to set up multiplayer:
 https://igi2multiplayer.pages.dev/hclauncher
 
 ## 🌐 Official Website
-https://igi2multiplayer.pages.dev/
+- Website: https://igi2multiplayer.pages.dev  
+- Setup Guide: https://igi2multiplayer.pages.dev/hclauncher  
+- ModDB Page: https://www.moddb.com/mods/igi-2-multiplayer-homecoming  
+- Discord Community: https://discord.gg/tdhgXKa5Mt
 
 ## 📌 How to Play
 1. Install IGI 2: Covert Strike
