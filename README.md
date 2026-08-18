@@ -1,10 +1,11 @@
-# IGI 2 Multiplayer Homecoming
+# IGI-2 Multiplayer LauncheR
 
 ## 📸 Screenshot
 
 ![HcLauncheR](HcLauncheR.png)
 
-IGI 2 Multiplayer Homecoming is a community project that allows players to play Project IGI 2: Covert Strike in multiplayer mode using HcLauncheR.
+Welcome to the official **IGI-2 Multiplayer** website hosted by **Homecoming Gaming**.  
+Play **IGI2 multiplayer online**, download **HcLauncheR**, explore **IGI2 maps**, join **IGI2 servers**, and connect with the active **IGI2 community**.
 
 ## 🎮 Features
 - Online multiplayer support
@@ -30,30 +31,6 @@ https://igi2multiplayer.pages.dev/hclauncher
 3. Join or host servers
 4. Start playing multiplayer
 
-## 💡 Notes
-- Run launcher as administrator if needed
-- Allow through firewall
-- Ensure stable internet connection
-
-## 📢 Community
-
-Join our Discord server to find players, get help, and play together:
-
-👉 https://discord.gg/tdhgXKa5Mt
-
-
-# IGI-2 Multiplayer Official Site
-
-Welcome to the official **IGI-2 Multiplayer** website hosted by **Homecoming Gaming**.  
-Play **IGI2 multiplayer online**, download **HcLauncheR**, explore **IGI2 maps**, join **IGI2 servers**, and connect with the active **IGI2 community**.
-
-## 🔗 Visit the Website
-
-Play online and join the action:  
-[https://igi2multiplayer.pages.dev/](https://igi2multiplayer.pages.dev/)
-
----
-
 ## 🎮 Projects & Tools
 
 Explore our official tools for the ultimate IGI2 multiplayer experience:
@@ -69,7 +46,12 @@ Explore our official tools for the ultimate IGI2 multiplayer experience:
 
 ---
 
-## 🌐 Community
+## 💡 Notes
+- Run launcher as administrator if needed
+- Allow through firewall
+- Ensure stable internet connection
+
+## 📢 Community
 
 Join our growing IGI2 multiplayer community across social platforms:  
 
