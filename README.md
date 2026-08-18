@@ -1,18 +1,18 @@
-# IGI-2 Multiplayer LauncheR
+# HcLauncheR | IGI-2 Multiplayer LauncheR
 
 ## 📸 Screenshot
 
 ![HcLauncheR](HcLauncheR.png)
 
-Welcome to the official **IGI-2 Multiplayer** website hosted by **Homecoming Gaming**.  
+Welcome to the official **IGI-2 Multiplayer Launcher** HcLauncheR hosted by **Homecoming Gaming**.  
 Play **IGI2 multiplayer online**, download **HcLauncheR**, explore **IGI2 maps**, join **IGI2 servers**, and connect with the active **IGI2 community**.
 
 ## 🎮 Features
 - Online multiplayer support
 - Server hosting
 - Easy connection to servers
-- Supports LAN and online play
-- Works on Windows 10/11
+- Quick Online Supports
+- Works on Windows PCs
 
 ## ⚙️ Setup Guide (HcLauncheR)
 Follow this step-by-step guide to set up multiplayer:
@@ -22,7 +22,9 @@ https://igi2multiplayer.pages.dev/hclauncher
 ## 🌐 Official Website
 - Website: https://igi2multiplayer.pages.dev  
 - Setup Guide: https://igi2multiplayer.pages.dev/hclauncher  
-- ModDB Page: https://www.moddb.com/mods/igi-2-multiplayer-homecoming  
+- ModDB Page: https://www.moddb.com/mods/igi-2-multiplayer-homecoming
+- Reddit Forums: https://www.reddit.com/r/oldgames/comments/1s73r09/igi2_multiplayer_is_actually_working_again_in_2026/ https://www.reddit.com/r/ProjectIGI/comments/1vjttq2/with_hclauncher_still_able_to_play_igi2/
+
 - Discord Community: https://discord.gg/tdhgXKa5Mt
 
 ## 📌 How to Play
@@ -71,5 +73,5 @@ Join our growing IGI2 multiplayer community across social platforms:
 
 ## 📝 About
 
-Homecoming Gaming revives **Project IGI2: Covert Strike** with updated maps, secure servers, and an active community.  
+Homecoming Gaming revives **IGI-2 Multiplayer** with stable and secure launcher, explore maps, secure servers, and an active community.  
 Whether you’re an old-school IGI player or new to tactical stealth shooters, we make it easy to connect and play online.
