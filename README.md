@@ -1,4 +1,4 @@
-# 🎮 IGI-2 Multiplayer — Homecoming Gaming
+# 🎮 IGI-2 Multiplayer
 
 **IGI-2 Multiplayer is back online!**
 
